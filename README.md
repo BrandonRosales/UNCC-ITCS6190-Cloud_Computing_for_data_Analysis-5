@@ -46,7 +46,7 @@ SocialMediaSentimentAnalysis/
 │   ├── sentiment_engagement.csv
 │   └── top_verified_users.csv
 ├── src/
-│   ├── task1s.py
+│   ├── task1.py
 │   ├── task2.py
 │   ├── task3.py
 │   └── task4.py
